@@ -1,0 +1,2 @@
+cd C:\Users\DELL\Downloads\OpencartV121-master\OpencartV121-master
+mvn test
